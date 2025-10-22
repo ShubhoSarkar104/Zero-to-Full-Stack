@@ -7,8 +7,9 @@
 </head>
 <body>
     <!--Tables in Html-->
-    <table border="1" cellspacing="0" cellpadding="10">
-        <caption>Student Data</caption>
+    <table border="1">
+        <caption><b>Student Data</b></caption>
+        <!--thead-->
         <thead>
         <tr>
             <th>First name</th>
@@ -16,6 +17,7 @@
             <th>Age</th>
         </tr>
         </thead>
+        <!--tbody-->
         <tbody>
         <tr>
             <td>John</td>
@@ -28,6 +30,7 @@
             <td>50</td>
         </tr>
         </tbody>
+        <!--tfoot-->
         <tfoot>
         <tr>
             <td>July</td>
@@ -37,6 +40,50 @@
         </tfoot>
 
     </table>
+    <br>
+    <!--Rowspan,Colspan and Table Attributes-->
+    <table border="1" cellspacing="0" cellpadding="10">
+        <caption>Weekly Class Schedule</caption>
+        <tr>
+            <th>Day</th>
+            <th>9-10 AM</th>
+            <th>10-11 AM</th>
+            <th>11-12 AM</th>
+        </tr>
+        <tr>
+            <td>Monday</td>
+            <td rowspan="2">Math</td>
+            <td>Science</td>
+            <td>English</td>
+        </tr>
+        <tr>
+            <td>Tuesday</td>
+            <td colspan="2">Computer Lab</td>
+        </tr>
+
+    </table>
+    <br>
+    <h2>Student Table</h2>
+    <table border="10" cellspacing="0" cellpadding="8">
+        <caption>Student Marks</caption>
+        <tr>
+            <th>Roll No</th>
+            <th>Name</th>
+            <th>Marks</th>
+        </tr>
+        <tr>
+            <td>101</td>
+            <td>Rahul</td>
+            <td>85</td>
+        </tr>
+        <tr>
+            <td>102</td>
+            <td>Neha</td>
+            <td>90</td>
+        </tr>
+
+    </table>
+
     
 </body>
 </html>
