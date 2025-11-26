@@ -8,4 +8,6 @@
 }
 .sinfo{
     display: flex;
+    flex-direction: row;
+    
 }
