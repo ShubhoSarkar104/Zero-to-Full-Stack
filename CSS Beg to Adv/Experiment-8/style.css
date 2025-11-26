@@ -1,6 +1,6 @@
 #sdata{
     width:1400px;
-    height:300px ;
+    height:400px ;
     border: 3px solid black;
     margin-left: 4%;
     margin-top: 10%;
@@ -11,9 +11,9 @@
     
 }
 .sinfo{
-    border: 3px solid rgba(12, 46, 220, 0.721);
+    border: 3px solid rgba(23, 59, 238, 0.721);
     width: 300px;
-    height: 200px;
+    height: 300px;
     margin-top: 40px;
     border-radius: 5%;
     
@@ -21,6 +21,14 @@
 .para{
     display: block;
 }
-.shotn{
+.shortn{
+    border: 1px solid  rgba(23, 59, 238, 0.721);
+    border-radius: 50%;
+    width: 100px;
+    margin-left: 100px;
+    margin-top: 20px;
+    background-color:rgba(23, 59, 238, 0.721);
+    text-align: center;
+    color: white;
     
 }
