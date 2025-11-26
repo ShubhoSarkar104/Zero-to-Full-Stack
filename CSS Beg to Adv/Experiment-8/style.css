@@ -1,16 +1,20 @@
 #sdata{
-    width:1000px;
+    width:1400px;
     height:300px ;
     border: 3px solid black;
-    margin-left: 15%;
+    margin-left: 4%;
     margin-top: 10%;
      display: flex;
     flex-direction: row;
     justify-content: center;
     
+    
 }
 .sinfo{
     border: 3px solid rgba(12, 46, 220, 0.721);
-    width: 200 px;
-    height: 100px;
+    width: 300px;
+    height: 200px;
+    margin-top: 40px;
+    
 }
+
