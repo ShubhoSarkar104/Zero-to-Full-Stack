@@ -45,3 +45,11 @@ body
     margin-top: 2px;
     width: 250px;
 }
+.button{
+    color: white;
+    background-color: rgb(62, 10, 233);
+    text-align: center;
+    width: 100px;
+    height: 40px;
+    border-radius: 10%;
+}
