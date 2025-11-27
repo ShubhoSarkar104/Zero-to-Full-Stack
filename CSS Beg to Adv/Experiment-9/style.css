@@ -52,6 +52,7 @@ body
     width: 100px;
     height: 40px;
     border-radius: 10%;
+    font-family:'Times New Roman', Times, serif;
 }
 #earbud{
     height: 250px;
