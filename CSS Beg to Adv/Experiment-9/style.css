@@ -40,3 +40,8 @@ body
 .heading1{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+#phone{
+    margin-top: 2px;
+    width: 250px;
+}
