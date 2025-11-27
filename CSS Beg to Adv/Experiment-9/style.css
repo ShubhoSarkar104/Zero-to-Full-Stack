@@ -1,6 +1,6 @@
 body
 {
-    background-color:rgb(73, 73, 171);
+    background-color: rgba(128, 128, 128, 0.108);
 }
 
 #bsi{
@@ -17,7 +17,7 @@ body
 
 .items{
     width: 500px;
-    height: 535px;
+    height: 560px;
     margin-left: 30px;
     border: 1px solid white;
     border-radius: 5%;
@@ -35,12 +35,13 @@ body
 }
 
 #h1{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: orange;
+    font-family:sans-serif;
+    color: black;
 }
 
 .heading1{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
 }
 
 #phone{
@@ -49,18 +50,21 @@ body
 }
 .button{
     color: white;
-    background-color: orangered;
+    background-color: blue;
     text-align: center;
     width: 100px;
     height: 50px;
     border-radius: 10%;
     font-family:sans-serif;
+    font-size: large;
 }
 #earbud{
     height: 250px;
 }
 .para{
     color:grey;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 .heading2{
     color: green;
