@@ -20,12 +20,13 @@ a{
 h2{
     margin-left: 10px;
 }
-.Menu2{
+.purple{
+    margin-right:1px;
     display: inline;
     margin-left: 15px;
     background-color: aqua;
     width: 10px;
-    padding:4px
+    padding: 4px;
 }
 .Menu3{
     background-color: #9b59b6;
