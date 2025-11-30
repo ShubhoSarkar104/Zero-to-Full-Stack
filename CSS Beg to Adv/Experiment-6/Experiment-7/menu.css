@@ -5,12 +5,14 @@ body{
 a{
     text-decoration: none;
     color: white;
-    margin-top:6px ;
 }
+
 
 .Menu1{
     
     margin-left: 10px;
+    margin-top:5px
+    
 }
 
 .blue{
@@ -30,8 +32,9 @@ h2{
 
 .Menu2{
     display: inline;
+    padding:10px;
     margin-left: 10px;
     border: 1px;
     background-color: aqua;
-    color: white;
+    width: 10px;
 }
