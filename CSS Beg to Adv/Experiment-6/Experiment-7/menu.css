@@ -52,11 +52,11 @@ h2{
 }
 .Menu4{
     margin-left: 10px;
-    background-color: beige;
+    background-color:  #f4f4f4;
     margin-top: 85px;
     padding-left: 15px;
     padding-top: 30px;
     padding-bottom: 30px;
     width: 1480px;
-    border: 1px solid black;
+    border:1px solid #ccc;
 }
