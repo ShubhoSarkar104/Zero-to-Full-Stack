@@ -27,11 +27,10 @@ h2{
 }
 .Menu2{
     display: inline;
-    padding:5px;
     margin-left: 15px;
-    border: 1px;
     background-color: aqua;
     width: 10px;
+    padding:4px
 }
 .Menu3{
     background-color: #9b59b6;
