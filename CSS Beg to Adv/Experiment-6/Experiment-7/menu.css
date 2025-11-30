@@ -4,6 +4,7 @@ body{
 a{
     text-decoration: none;
     color: white;
+    margin-right: 15px;
 }
 
 
@@ -47,4 +48,5 @@ h2{
     padding-right: 90px;
     margin-left: 15px;
     margin-top: 10px;
+    margin-right: 5px;
 }
