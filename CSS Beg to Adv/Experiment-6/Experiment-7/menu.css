@@ -1,5 +1,4 @@
 body{
-    margin-top: 20px;
     font-family: sans-serif;
 }
 a{
@@ -40,11 +39,12 @@ h2{
 }
 
 .Menu3{
-    background-color: rgb(198, 16, 198);
+    background-color: rgb(174, 97, 174);
     display: inline;
     padding-top: 10px;
     padding-bottom: 40px;
     padding-left: 10px;
-    padding-right: 80px;
+    padding-right: 90px;
     margin-left: 15px;
+    margin-top: 10px;
 }
