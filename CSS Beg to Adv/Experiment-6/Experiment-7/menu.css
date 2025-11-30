@@ -7,5 +7,7 @@ body{
 }
 
 .blue{
-    ma
+    border: 1px;
+    color: white;
+    background-color: rgb(6, 6, 255);
 }
