@@ -38,3 +38,13 @@ h2{
     background-color: aqua;
     width: 10px;
 }
+
+.Menu3{
+    background-color: rgb(198, 16, 198);
+    display: inline;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    padding-left: 10px;
+    padding-right: 80px;
+    
+}
