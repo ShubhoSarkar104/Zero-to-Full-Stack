@@ -1,22 +1,23 @@
 body{
-    margin-top: 10px;
+    margin-top: 20px;
     font-family: sans-serif;
 }
 
 .menu1{
-    margin-left: 15px;
+    margin-left:10px
+    
 }
 
 .blue{
     border: 1px;
     color: white;
-    background-color: rgb(6, 6, 255);
+    background-color: rgba(6, 118, 255, 0.803);
     width: 1480px;
-    height: 30px;
+    height: 28px;
     padding-left: 15px;
-    padding-top: 15px;
+    padding-top: 10px;
 }
 
 #block{
-    margin-left: 15px;
+    margin-left: 10px;
 }
