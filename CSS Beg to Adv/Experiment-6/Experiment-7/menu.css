@@ -6,15 +6,12 @@ a{
     color: white;
     margin-right: 15px;
 }
-
-
 .Menu1{
     
     margin-left: 10px;
     margin-top:5px
     
 }
-
 .blue{
     border: 1px;
     color: white;
@@ -25,11 +22,9 @@ a{
     padding-top: 10px;
     display: block;
 }
-
 h2{
     margin-left: 10px;
 }
-
 .Menu2{
     display: inline;
     padding:5px;
@@ -38,7 +33,6 @@ h2{
     background-color: aqua;
     width: 10px;
 }
-
 .Menu3{
     background-color: rgb(174, 97, 174);
     display: inline;
