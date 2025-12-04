@@ -1,5 +1,23 @@
+body{
+    margin: 0px;
+}
 a{
     text-decoration: none;
     color: white;
 }
+
+#navbar{
+    display: flex;
+    flex-direction: row;
+    height: 60px;
+    background-color: black;
+    justify-content: center;
+    gap: 500px;
+}
+
+h2{
+    color: aliceblue;
+    margin-top: 15px;
+}
+
 
