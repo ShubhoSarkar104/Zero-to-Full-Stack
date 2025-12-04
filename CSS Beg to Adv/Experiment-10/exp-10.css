@@ -8,6 +8,13 @@ body{
     margin-left: 40px;
 }
 
+.a2{
+    text-decoration: none;
+    color: white;
+    margin-left: 40px;
+}
+
+
 #navbar{
     display: flex;
     flex-direction: row;
